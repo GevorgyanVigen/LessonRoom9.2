@@ -1,12 +1,17 @@
 package lesson.room;
 
-// debug
+import lesson.room.model.Human;
+import lesson.room.model.Student;
+
 public class Test {
     public static void main(String[] args) {
 
-        int x = 14, y = 6;
+       String s = null;
+       s.charAt(0);
 
-        boolean b = x > 1 || x < 10;
-        System.out.println(b);
+    }
+
+    public void f() {
+
     }
 }
